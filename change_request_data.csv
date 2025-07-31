@@ -1,0 +1,101 @@
+Change_ID,Department,Change_Type,Priority,Submitted_Date,Status,Impact_Score,Completed_Date
+CHG0001,Marketing,Policy,Medium,2024-01-27,Open,1.9,
+CHG0002,Operations,Process,Medium,2024-01-21,Closed,9.1,2024-01-27
+CHG0003,HR,Software,Medium,2024-01-30,Closed,5.5,2024-01-31
+CHG0004,Operations,Policy,Low,2024-04-06,Closed,8.4,2024-04-15
+CHG0005,Operations,Policy,Low,2024-01-28,Closed,3.9,2024-01-29
+CHG0006,Finance,Hardware,Low,2024-04-20,Closed,9.1,2024-04-25
+CHG0007,HR,Software,Low,2024-03-01,Closed,4.5,2024-03-05
+CHG0008,HR,Policy,Medium,2024-02-17,Closed,1.1,2024-03-01
+CHG0009,HR,Process,Medium,2024-05-26,Closed,9.1,2024-06-07
+CHG0010,Operations,Process,Low,2024-01-04,In Progress,1.8,
+CHG0011,Marketing,Hardware,Low,2024-02-04,Closed,3.9,2024-02-17
+CHG0012,HR,Policy,Low,2024-02-18,Open,9.6,
+CHG0013,Operations,Software,Medium,2024-01-17,Open,9.6,
+CHG0014,Finance,Process,Medium,2024-06-20,Closed,6.2,2024-07-03
+CHG0015,Marketing,Policy,Low,2024-06-06,Closed,6.7,2024-06-20
+CHG0016,Finance,Policy,High,2024-02-15,Closed,5.0,2024-02-18
+CHG0017,Marketing,Hardware,Low,2024-04-26,Closed,3.6,2024-05-09
+CHG0018,Operations,Process,High,2024-01-06,In Progress,4.0,
+CHG0019,IT,Process,Medium,2024-04-08,In Progress,7.1,
+CHG0020,Marketing,Software,Low,2024-05-03,In Progress,7.8,
+CHG0021,Finance,Process,Medium,2024-02-06,Closed,8.1,2024-02-12
+CHG0022,Operations,Software,Medium,2024-01-24,Closed,8.1,2024-01-26
+CHG0023,Marketing,Process,Medium,2024-04-02,Closed,1.8,2024-04-05
+CHG0024,IT,Hardware,Medium,2024-02-15,In Progress,5.4,
+CHG0025,IT,Process,Medium,2024-04-04,Closed,1.5,2024-04-09
+CHG0026,HR,Software,Medium,2024-04-08,Closed,5.9,2024-04-17
+CHG0027,HR,Software,Medium,2024-04-25,Closed,5.0,2024-04-27
+CHG0028,Finance,Hardware,Low,2024-06-08,Closed,9.0,2024-06-18
+CHG0029,Marketing,Process,Medium,2024-06-09,Closed,4.2,2024-06-17
+CHG0030,Marketing,Process,Low,2024-03-07,In Progress,2.1,
+CHG0031,HR,Hardware,High,2024-05-07,Closed,2.3,2024-05-21
+CHG0032,Marketing,Process,Medium,2024-01-18,Closed,7.9,2024-01-20
+CHG0033,Marketing,Process,High,2024-01-25,Open,6.6,
+CHG0034,IT,Software,Medium,2024-02-23,In Progress,1.9,
+CHG0035,HR,Process,High,2024-02-27,Open,1.8,
+CHG0036,Operations,Process,Medium,2024-03-07,Open,7.3,
+CHG0037,HR,Hardware,Low,2024-04-13,Closed,1.7,2024-04-24
+CHG0038,Operations,Hardware,Medium,2024-06-22,Closed,8.4,2024-07-05
+CHG0039,IT,Policy,Medium,2024-01-24,Closed,7.4,2024-01-29
+CHG0040,Finance,Software,High,2024-04-23,Open,1.7,
+CHG0041,Marketing,Process,Medium,2024-02-01,Closed,1.8,2024-02-08
+CHG0042,IT,Process,Low,2024-06-23,Closed,9.9,2024-07-01
+CHG0043,Marketing,Policy,Medium,2024-03-26,In Progress,4.4,
+CHG0044,Finance,Process,High,2024-05-30,Closed,4.3,2024-05-31
+CHG0045,Finance,Software,Medium,2024-05-06,Closed,8.3,2024-05-12
+CHG0046,IT,Policy,Low,2024-06-03,Closed,9.5,2024-06-04
+CHG0047,Finance,Software,High,2024-05-09,Closed,9.9,2024-05-11
+CHG0048,Operations,Policy,Medium,2024-01-17,Open,7.8,
+CHG0049,Finance,Policy,Medium,2024-04-13,Closed,4.4,2024-04-14
+CHG0050,Marketing,Hardware,High,2024-06-09,Closed,1.8,2024-06-20
+CHG0051,Marketing,Software,Medium,2024-05-16,Closed,8.0,2024-05-21
+CHG0052,Marketing,Process,Medium,2024-02-12,Closed,6.0,2024-02-22
+CHG0053,Marketing,Process,Low,2024-06-24,Closed,4.8,2024-07-03
+CHG0054,Operations,Software,Medium,2024-02-08,In Progress,9.2,
+CHG0055,HR,Process,Medium,2024-06-18,Open,2.0,
+CHG0056,IT,Process,Low,2024-01-26,Closed,5.4,2024-02-01
+CHG0057,Marketing,Software,Low,2024-04-08,Open,1.1,
+CHG0058,Finance,Policy,High,2024-02-19,Closed,5.2,2024-03-01
+CHG0059,Marketing,Software,Medium,2024-06-01,Closed,1.5,2024-06-12
+CHG0060,Finance,Policy,Low,2024-05-31,Closed,2.1,2024-06-01
+CHG0061,Finance,Process,High,2024-01-13,Closed,2.1,2024-01-26
+CHG0062,Marketing,Process,High,2024-02-29,Closed,6.8,2024-03-01
+CHG0063,Operations,Process,Medium,2024-05-14,Closed,7.7,2024-05-16
+CHG0064,Finance,Hardware,High,2024-02-26,Closed,6.3,2024-03-06
+CHG0065,Finance,Policy,Low,2024-02-05,Closed,9.7,2024-02-08
+CHG0066,Marketing,Hardware,Low,2024-06-21,Closed,4.4,2024-06-22
+CHG0067,Finance,Hardware,Medium,2024-01-20,Closed,3.6,2024-01-25
+CHG0068,Finance,Software,High,2024-03-05,Closed,8.8,2024-03-12
+CHG0069,Marketing,Hardware,High,2024-01-08,In Progress,3.0,
+CHG0070,Marketing,Software,Medium,2024-05-23,Open,9.7,
+CHG0071,IT,Software,High,2024-05-21,In Progress,1.1,
+CHG0072,Operations,Hardware,High,2024-04-24,Open,9.7,
+CHG0073,Operations,Policy,High,2024-05-22,Open,1.4,
+CHG0074,Finance,Policy,Medium,2024-04-01,Closed,9.0,2024-04-07
+CHG0075,Operations,Policy,Medium,2024-04-07,Open,5.7,
+CHG0076,Finance,Policy,Medium,2024-03-06,Closed,9.9,2024-03-18
+CHG0077,IT,Policy,Medium,2024-02-01,Closed,1.7,2024-02-02
+CHG0078,Marketing,Hardware,High,2024-03-26,Open,6.0,
+CHG0079,Marketing,Hardware,High,2024-02-20,Closed,9.7,2024-02-25
+CHG0080,Marketing,Process,Low,2024-06-01,In Progress,5.7,
+CHG0081,Operations,Policy,Medium,2024-03-03,In Progress,6.7,
+CHG0082,IT,Hardware,Medium,2024-05-04,Closed,7.3,2024-05-09
+CHG0083,Operations,Process,Medium,2024-05-29,Closed,5.1,2024-06-04
+CHG0084,Operations,Policy,High,2024-02-27,Closed,6.6,2024-03-01
+CHG0085,IT,Software,Low,2024-02-27,Closed,6.3,2024-03-03
+CHG0086,IT,Process,Low,2024-03-26,Closed,9.1,2024-04-02
+CHG0087,IT,Hardware,Medium,2024-02-18,In Progress,1.4,
+CHG0088,IT,Software,Low,2024-06-28,In Progress,3.5,
+CHG0089,Marketing,Software,Medium,2024-06-18,Closed,9.6,2024-06-23
+CHG0090,HR,Software,Medium,2024-03-10,Closed,9.0,2024-03-15
+CHG0091,HR,Process,Medium,2024-01-15,Closed,5.1,2024-01-20
+CHG0092,IT,Hardware,Medium,2024-02-23,Closed,6.6,2024-03-04
+CHG0093,HR,Software,Medium,2024-04-10,Closed,3.5,2024-04-20
+CHG0094,HR,Policy,Medium,2024-01-08,Closed,2.7,2024-01-11
+CHG0095,IT,Software,Medium,2024-02-22,Closed,5.2,2024-02-23
+CHG0096,HR,Software,Low,2024-02-29,Closed,4.2,2024-03-05
+CHG0097,Operations,Process,Medium,2024-04-17,Closed,6.3,2024-05-01
+CHG0098,Finance,Process,High,2024-01-05,Closed,1.7,2024-01-14
+CHG0099,Finance,Hardware,Medium,2024-04-12,Closed,9.8,2024-04-26
+CHG0100,IT,Policy,High,2024-01-06,Closed,9.9,2024-01-07
