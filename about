@@ -1,0 +1,42 @@
+Change Management Data Analysis
+This project analyzes synthetic change request data typically used in PMO (Project Management Office) or Change Management roles. It focuses on how long each change took to complete, uncovering bottlenecks and trends that could help optimize operational efficiency.
+
+Objective
+To demonstrate data analysis skills by exploring:
+The time taken to complete each change request
+The distribution of change durations
+Differences in duration by change type (if available)
+
+Skills Applied
+Data Cleaning and Preprocessing using Pandas
+Exploratory Data Analysis (EDA) with Seaborn/Matplotlib
+Working with date columns and durations
+Generating summary tables and insights
+Communicating findings with visualizations
+
+Files
+File Name	Description
+change_analysis.ipynb	Jupyter Notebook with full analysis and charts
+change_request_data.csv	Synthetic dataset used for the analysis
+
+Key Insights
+Calculated the number of days taken to complete each change
+Identified changes that took the longest
+Visualized how change durations vary across requests
+Created a clean summary table of top 10 longest changes
+
+About the Dataset
+The dataset is synthetic and created for learning purposes, inspired by real-world PMO workflows. It contains:
+Change_ID
+Requested_Date
+Completed_Date
+Change_Type, Department, etc.
+
+Why This Project
+I'm transitioning from a Change Management / PMO background into Data Analytics.
+
+This project combines my domain knowledge with my data science skills to:
+Show real-world business impact
+Communicate data clearly
+Practice hands-on analysis
+
